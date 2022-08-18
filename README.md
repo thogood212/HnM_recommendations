@@ -1,8 +1,8 @@
-#HnM_recommendations
+# HnM_recommendations
 #H&M Kaggle 추천시스템
 (https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview)
 
-##**개요**
+## **개요**
 
 H&M Group 은 53개의 온라인 시장과 약 4,850개의 매장을 보유한 브랜드 및 비즈니스 제품군입니다.
 
@@ -16,7 +16,7 @@ H&M Group 은 53개의 온라인 시장과 약 4,850개의 매장을 보유한 �
 
 ---
 
-##**데이터**
+## **데이터**
 
 1. images - 이번 구현에서는 해당 이미지 데이터를 사용하지 않았습니다.
 2. Articles.csv - 구매할 수 있는 각 항목 에 대한 자세한 메타데이터
@@ -27,6 +27,6 @@ H&M Group 은 53개의 온라인 시장과 약 4,850개의 매장을 보유한 �
 
 ---
 
-##**목표**
+## **목표**
 
 이 프로젝트의 목표는 훈련데이터 기간 직후 7일 기간 동안 각 고객(customer_id)이 구매할 article_id를 예측하는 것입니다.
